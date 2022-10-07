@@ -1,0 +1,3 @@
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`,`quantidade`, `ano`, `localizacao`) VALUES ('0000000001', 'Hay, Louise L', 'Aprendendo a gostar de si mesmo', '1', 'Mudança de Perspectiva: Ensinamentos budistas sobre a bondade', '2012', 'x');
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) VALUES ('0000000002', 'Assis, Machado de', 'Memórias póstumas de Brás Cubas', '6' 'Mudança de Perspectiva: Ensinamentos budistas sobre a bondade', '2012', 'x');
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) VALUES ('0000000008', 'Jigme Tromge Rinpoche', '1', 'Mudança de Perspectiva: Ensinamentos budistas sobre a bondade', '2012', 'x');
