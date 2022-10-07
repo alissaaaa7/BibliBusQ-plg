@@ -1,0 +1,8 @@
+CREATE TABLE livro (
+    idregistro INT,
+    autor text,
+    titulo text,
+    quantidade INT, 
+    ano year,
+    localizacao text
+)
