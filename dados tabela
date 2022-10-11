@@ -643,114 +643,174 @@ INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `loca
 VALUES ('0000000282', 'Maia, Maria Carolina','Ciranda de nós',  '1' , '2009', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000283', '','',  '1' , '', 'x');
+VALUES ('0000000283', 'Guimarães, Bernardo','A escrava Isaura',  '1' , '2010', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000284', '','',  '1' , '', 'x');
+VALUES ('0000000284', 'Barreto, Lima','Triste fim de Policarpo quaresma',  '1' , '1997', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000285', '','',  '1' , '', 'x');
+VALUES ('0000000285', 'Alencar, José de','LUCÍOLA',  '1' , '1995', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000286', '','',  '1' , '', 'x');
+VALUES ('0000000286', 'Assis, Machado de','DOM CASMURRO',  '1' , '1995', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000287', '','',  '1' , '', 'x');
+VALUES ('0000000287', 'Elizabeth M. Bomfim','Formações em Psicologia: Pós-graduação e graduação',  '1' , '1996', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000288', '','',  '1' , '', 'x');
+VALUES ('0000000288', 'Yamamoto, Oswaldo Hajime','A crise e as alternativas da psicologia',  '1' , '1987', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000289', '','',  '1' , '', 'x');
+VALUES ('0000000289', 'Baptista, Luis Antonio dos S','A fábrica de interiores: a formação psi em questão',  '1' , '2000', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000290', '','',  '1' , '', 'x');
+VALUES ('0000000290', 'Morris, Charles G.','Introdução à Psicologia',  '1' , '2004', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000291', '','',  '1' , '', 'x');
+VALUES ('0000000291', 'Maria do Carmo Guedes','História da Psicologia no Brasil: novos estudos',  '1' , '2004', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000292', '','',  '1' , '', 'x');
+VALUES ('0000000292', 'Vários autores','Psicólogo brasileiro: construção de novos espaços',  '1' , '2005', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000293', '','',  '1' , '', 'x');
+VALUES ('0000000293', 'Chopra, Deepak','Corpo sem idade, mente sem fronteiras: a alternativa quântica para o
+envelhecimento',  '1' , '1994', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000294', '','',  '1' , '', 'x');
+VALUES ('0000000294', 'Hannam, Joyce','The Death of Karen Silkwood',  '1' , '', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000295', '','',  '1' , '', 'x');
+VALUES ('0000000295', 'Coben, Harlan','Quebra de confiança',  '1' , '2011', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000296', '','',  '1' , '', 'x');
+VALUES ('0000000296', 'Moyes, Jojo','Baía da esperança',  '1' , '2016', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000297', '','',  '1' , '', 'x');
+VALUES ('0000000297', 'Kiefer, Bruno','História da música brasileira: Dos primórdios ao início do século XX',  '1' , '1977', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000298', '','',  '1' , '', 'x');
+VALUES ('0000000298', 'Montello, Louise','Inteligência musical essencial: a música como caminho para a cura, a
+criatividade e a plenitude radiante',  '1' , '2004', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000299', '','',  '1' , '', 'x');
+VALUES ('0000000299', 'Costa, Claudio F','Cartografias conceituais: uma abordagem da filosofia contemporânea',  '1' , '2008', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000300', '','',  '1' , '', 'x');
+VALUES ('0000000300', 'Silva, Joana Brito de Lima','Entre júbilo e ruína: a perspectiva trágica de Nietzsche',  '1' , '2011', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000', '','',  '1' , '', 'x');
+VALUES ('0000000301', 'Oliveira, Fátima','Bioética: uma face da cidadania',  '2' , '1997', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000', '','',  '1' , '', 'x');
+VALUES ('0000000303', 'Fromm, Erich','A Linguagem esquecida: uma introdução ao entendimento dos sonhos, contos
+de fadas e mitos',  '1' , '1980', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000', '','',  '1' , '', 'x');
+VALUES ('0000000304', 'Pellegrini, Domingos','Família composta',  '1' , '2012', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000', '','',  '1' , '', 'x');
+VALUES ('0000000305', 'Damásio, António R','O erro de Descartes: emoção, razão e o cérebro humano',  '1' , '2012', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000', '','',  '1' , '', 'x');
+VALUES ('0000000306', 'Trigueiro, Ana Cláudia','A ira de Judas: contos assombrados',  '1' , '2018', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000', '','',  '1' , '', 'x');
+VALUES ('0000000307', 'Gonzalez Rey, Fernando Luis','O social na psicologia e a psicologia social',  '1' , '2012', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000', '','',  '1' , '', 'x');
+VALUES ('0000000308', 'Vários autores','Psicologia social contemporânea',  '1' , '', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000', '','',  '1' , '', 'x');
+VALUES ('0000000309', 'Fromm, Erich','Meu Encontro com MARX e FREUD',  '1' , '1967', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000', '','',  '1' , '', 'x');
+VALUES ('0000000310', 'Vários autores','Endocrine-Related: Cancer',  '1' , '2002', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000', '','',  '1' , '', 'x');
+VALUES ('0000000311', 'Silva, Paulo Afonso Lopes da','Probalidade & estatística',  '1' , '1999', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000', '','',  '1' , '', 'x');
+VALUES ('0000000312', 'Panella, Maurício Camargo','Grande Árvore, Muitas Histórias',  '1' , ' 2010', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000', '','',  '1' , '', 'x');
+VALUES ('0000000313', 'Trambaiolli Neto, Egídio','A revelação',  '1' , '1999', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000', '','',  '1' , '', 'x');
+VALUES ('0000000314', 'Trambaiolli Neto, Egídio','A profecia',  '1' , '1999', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000', '','',  '1' , '', 'x');
+VALUES ('0000000315', 'Vários autores','As grandes invenções da humanidade',  '1' , '2009', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000', '','',  '1' , '', 'x');
+VALUES ('0000000316', 'Vários autores','Macromedia Flash Animado: Técnicas Avançadas em Design & Animações',  '1' , '2004', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000', '','',  '1' , '', 'x');
+VALUES ('0000000317', 'Ministério da Educação','Parâmetros Curriculares Nacionais: Ciências Naturais',  '1' , '2000', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000', '','',  '1' , '', 'x');
+VALUES ('0000000318', 'Osho','A Linguagem da Existência',  '1' , '', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000', '','',  '1' , '', 'x');
+VALUES ('0000000319', 'Gobot, Jean','Testes Para Admissão em Empresas e Empregos Públicos',  '1' , ' 1985', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000', '','',  '1' , '', 'x');
+VALUES ('0000000320', 'Nascimento, Alex','Um beijo e tchau',  '1' , '2015', 'x');
 
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000321', 'Austen, Jane','Razão e Sensibilidade: Duas irmãs. Dois olhares no mesmo mundo',  '1' , '2018', 'x');
 
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000322', 'Rowling, J.K','Morte súbita',  '1' , '2012', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000323', 'Black, Holly','Boneca de ossos',  '1' , '2014', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000324', 'Levitin, Daniel J.','This is your brain on music: the science of a human obsession',  '1' , '2006', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000325', 'Dr. Abdurrahman al-Sheha','A Mensagem do Islam',  '1' , '', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000326', 'Lima, Nestor dos Santos','A imagem do Brasil nas cartas de Bolivar',  '1' , '2003', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000327', 'Valla, Victor Vicent','Ciência e tecnologia no Brasil: história e ideologia',  '1' , ' 2003', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000328', 'Valla, Victor Vicent','Ciência e tecnologia no Brasil: história e ideologia',  '1' , '1981', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000329', 'Fromm, Erich','Ter ou Ser?',  '1' , '1980', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000330', 'Fromm, Erich','O Dogma de Cristo',  '1' , '1978', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000331', 'Castro, Paulo Venturele de Paiva','Minha Cidade Natal',  '1' , '1996', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000332', 'Vários autores','Rio Grande do Norte: bonito por natureza: Beautiful by nature',  '1' , '2014', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000333', 'James F.Luhr','Enciclopédia ilustrada da Terra',  '1' , '', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000334', 'Vários autores','ABC de Saúde e Alimentação: Essencial um guia prático de alimentação e
+saúde',  '1' , '', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000335', 'Vários autores','As Chaves da Felicidade',  '1' , '2021', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000336', 'Vários autores','O Brasil passa pelo Sesc: do Oiapoque ao Chuí, de Cruzeiro do Sul a João
+Pessoa',  '1' , '2011', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000337', 'Vários autores','Almoço & Jantar: Legumes e Verduras',  '1' , '', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000338', 'Molina, Jorge','Manual do manipulador de alimentos 1: introdução à higiene alimentar',  '1' , '2014', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000339', '','',  '1' , '', 'x');
