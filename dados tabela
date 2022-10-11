@@ -634,67 +634,67 @@ INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `loca
 VALUES ('0000000278', 'Flynn, Gillian','Garota exemplar',  '1' , '2014', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000280', '','',  '1' , '', 'x');
+VALUES ('0000000280', 'Roriz, João Pedro','Romeu e Julieta',  '1' , '2011', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000', '','',  '1' , '', 'x');
+VALUES ('0000000281', 'Boyne, John','O menino do pijama listrado',  '1' , '2013', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000', '','',  '1' , '', 'x');
+VALUES ('0000000282', 'Maia, Maria Carolina','Ciranda de nós',  '1' , '2009', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000', '','',  '1' , '', 'x');
+VALUES ('0000000283', '','',  '1' , '', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000', '','',  '1' , '', 'x');
+VALUES ('0000000284', '','',  '1' , '', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000', '','',  '1' , '', 'x');
+VALUES ('0000000285', '','',  '1' , '', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000', '','',  '1' , '', 'x');
+VALUES ('0000000286', '','',  '1' , '', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000', '','',  '1' , '', 'x');
+VALUES ('0000000287', '','',  '1' , '', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000', '','',  '1' , '', 'x');
+VALUES ('0000000288', '','',  '1' , '', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000', '','',  '1' , '', 'x');
+VALUES ('0000000289', '','',  '1' , '', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000', '','',  '1' , '', 'x');
+VALUES ('0000000290', '','',  '1' , '', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000', '','',  '1' , '', 'x');
+VALUES ('0000000291', '','',  '1' , '', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000', '','',  '1' , '', 'x');
+VALUES ('0000000292', '','',  '1' , '', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000', '','',  '1' , '', 'x');
+VALUES ('0000000293', '','',  '1' , '', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000', '','',  '1' , '', 'x');
+VALUES ('0000000294', '','',  '1' , '', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000', '','',  '1' , '', 'x');
+VALUES ('0000000295', '','',  '1' , '', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000', '','',  '1' , '', 'x');
+VALUES ('0000000296', '','',  '1' , '', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000', '','',  '1' , '', 'x');
+VALUES ('0000000297', '','',  '1' , '', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000', '','',  '1' , '', 'x');
+VALUES ('0000000298', '','',  '1' , '', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000', '','',  '1' , '', 'x');
+VALUES ('0000000299', '','',  '1' , '', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000', '','',  '1' , '', 'x');
+VALUES ('0000000300', '','',  '1' , '', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
 VALUES ('0000000', '','',  '1' , '', 'x');
