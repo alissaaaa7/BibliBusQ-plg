@@ -1242,39 +1242,143 @@ INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `loca
 VALUES ('0000000497', 'Vários autores','Stalin: História Ilustrada da 2ªGuerra Mundial',  '1' , '1975', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000498', '','',  '1' , '', 'x');
+VALUES ('0000000498', 'Paiva, RM','Contos de terror para crianças insones',  '1' , '2019', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000499', '','',  '1' , '', 'x');
+VALUES ('0000000499', 'Von Ziegesar, Cecily','Eu quero tudo! (Gossip girl)',  '1' , '2007', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000500', '','',  '1' , '', 'x');
+VALUES ('0000000500', 'José, Ganymédes','Romeu e Julieta',  '1' , '1998', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000501', '','',  '1' , '', 'x');
+VALUES ('0000000501', 'Collodi, Carlo','As aventuras de Pinóquio: História de um boneco',  '1' , '', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000502', '','',  '1' , '', 'x');
+VALUES ('0000000502', 'Cony, Carlos Heitor','O irmão que tu me deste',  '1' , '2013', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000503', '','',  '1' , '', 'x');
+VALUES ('0000000503', 'Colbert, David
+','O mundo mágico de Harry Potter: mitos, lendas e histórias fascinantes',  '1' , '2001', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000504', '','',  '1' , '', 'x');
+VALUES ('0000000504', 'Tersariol, Alpheu','Como era, como fica: o novo acordo ortográfico da língua portuguesa',  '1' , '2009', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000505', '','',  '1' , '', 'x');
+VALUES ('0000000505', 'Cipro Neto, Pasquale','Português passo a passo com Pasquale Cipro Neto',  '1' , '2007', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000506', '','',  '1' , '', 'x');
+VALUES ('0000000506', 'Melo, Gladstone Chaves de','Gramática fundamental da língua portuguesa: de acordo com a nomenclatura
+gramatical brasileira',  '1' , '1978', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000507', '','',  '1' , '', 'x');
+VALUES ('0000000507', 'Cândido, Antônio','Formação da literatura brasileira: momentos decisivos 2',  '1' , '1981', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000508', '','',  '1' , '', 'x');
+VALUES ('0000000508', 'Larousse','Dictionnaire du Français Contemporain',  '1' , '', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000509', '','',  '1' , '', 'x');
+VALUES ('0000000509', 'Vários autores','Gramática da língua portuguesa: manual de estudos',  '1' , '2010', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000510', 'Cunha, Celso','Nova gramática do português contemporâneo',  '1' , '2007', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000511', 'Bechara, Evanildo','Moderna gramática portuguesa',  '2' , '2015', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000514', 'Mazzarotto, Luiz Fernando','Redação: gramática & literatura',  '1' , '2002', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000515', 'Vários autores','Ruas de Planaltina: inventário do Patrimônio Cultural de Planaltina',  '1' , '1998', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000516', 'Vários autores','Você e o Trabalho',  '1' , '2011', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000517', 'Vários autores','Journal of Endocrinology',  '1' , '2007', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000518', 'Fundação Instituto Brasileiro de Geografia e Estatística','Atlas geográfico escolar',  '1' , '1980', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000519', 'Almeida, Rita de Cássia Bento de','Padre Tiago: Obras sociais que contribuíram para a transformação de uma
+sociedade',  '1' , '2014', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000520', 'Galvão, Maria Luiza de Medeiros','Rio Grande do Norte: Geografia.',  '1' , '2002', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000521', 'Sukkar, Sumia','O menino de Alepo',  '1' , '2017', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000522', 'Overy, Richard','Blitzkrieg: a guerra relâmpago: estratégia alemã força a retirada dos aliados',  '1' , '2014', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000523', 'Felipe, José Lacerda Alves','Economia Rio Grande do Norte: estudo geo-histórico e econômico',  '1' , '2011', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000524', 'IBGE_Instituto Brasileiro de Geografia e Estatística','Atlas geográfico escolar / IBGE',  '1' , '2002', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000525', 'Chagas, Cíntia','Sou péssimo em português: chega de sofrimento! aprenda as principais
+regras de português dando boas risadas',  '10' , '2018', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000535', 'Vários autores','Leitura, literatura e redação: diretrizes metodológicas',  '5' , '1995', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000536', 'Infante, Ulisses','Curso de Gramática: aplicada aos textos',  '1' , '2001', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000541', 'Lima, Myrson','O Essencial do Português: para concursos e vestibulares',  '1' , '2007', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000542', 'Lispector, Clarice','A cidade sitiada',  '1' , '1998', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000543', 'Platão & Fiorin','Para Entender o Texto: Leitura e Redação',  '1' , '2003', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000544', 'Kury, Adriano da Gama','Minidicionário Gama Kury da língua portuguesa',  '1' , '2001', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000545', 'Terra, Ernani','Minigramática',  '1' , '2007', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000546', 'Dornelles, José Almir Fontella','A gramática do concursando',  '1' , '2006', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000547', 'Squarisi, Dad','Escrever melhor: guia para passar os textos a limpo',  '1' , '2008', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000548', 'Rodriguez, Manuela M.','Manual de modelos de cartas comerciais',  '1' , 2000'', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000549', 'Campedelli, Samira Youssef','Literatura História & Texto 3',  '1' , '1999', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000550', 'Vários autores','Manual de redação',  '1' , '2008', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000551', 'Vários autores','Superdicas para manter seu português em ordem',  '1' , '2011', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000552', 'Vários autores','Ortográfico: Comentado e ilustrado',  '1' , '2010', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000553', 'Cipro Neto, Pasquale','Português passo a passo com Pasquale Cipro Neto',  '1' , '2007', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000554', 'Fialho, Carlos','Crônicas na escola',  '1' , '2016', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000555', 'Vários autores','Código comercial',  '1' , '2000', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000556', 'Gomes, Luiz','Guia prático educação para cidadania',  '1' , '2013', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000557', '','',  '1' , '', 'x');
+
 
 
