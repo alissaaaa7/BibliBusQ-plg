@@ -1058,43 +1058,44 @@ INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `loca
 VALUES ('0000000418', 'Horngren, Charles T.','Introdução a contabilidade gerencial',  '1' , '', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000419', '','',  '1' , '', 'x');
+VALUES ('0000000419', 'Resende, Marcos Cabral','Faça sua home page',  '1' , '1999', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000420', '','',  '1' , '', 'x');
+VALUES ('0000000420', 'Tosi, Armando José','Matemática financeira com utilização do Excel 2000: aplicável às versões 5.0,
+7.0 e 97',  '1' , '2000', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000421', '','',  '1' , '', 'x');
+VALUES ('0000000421', 'Hopkinson, Nalo','O universo de Sandman: a casa dos sussurros',  '1' , '2019', 'x');
 
 vINSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000422', '','',  '1' , '', 'x');
+VALUES ('0000000422', 'Vários autores','Introdução a Sistemas de Computação Digital',  '1' , '', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000423', '','',  '1' , '', 'x');
+VALUES ('0000000423', 'O´Hara, Shelley','EXCEL para Windows, versão 4.0',  '1' , '1993', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000424', '','',  '1' , '', 'x');
+VALUES ('0000000424', 'Leal, Aquilino Rodriguez','Práticas de eletrônica com circuitos integrados: o superversátil',  '1' , '1982', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000425', '','',  '1' , '', 'x');
+VALUES ('0000000425', 'Teixeira, Steve','Delphi 5, guia do desenvolvedor',  '1' , '2000', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000426', '','',  '1' , '', 'x');
+VALUES ('0000000426', 'Xavier, Gley Fabiano Cardoso','Lógica de programação',  '1' , '2003', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000427', '','',  '1' , '', 'x');
+VALUES ('0000000427', 'Rouiller, Ana Cristina / Berbert, Guilherme','MOSE: roteiro para certificação de bronze-pequenos empreendimentos',  '1' , '2018', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000428', '','',  '1' , '', 'x');
+VALUES ('0000000428', 'Gouveia, Naide','Vidas nuas...',  '1' , '2014', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000429', '','',  '1' , '', 'x');
+VALUES ('0000000429', 'Vários autores','Curso passo a passo de Web Design 05: Flash parte 2',  '1' , '2002', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000430', '','',  '1' , '', 'x');
+VALUES ('0000000430', 'Collison, Simon','Desenvolvendo CSS na Web: Do iniciante ao profissional',  '1' , ' 2008', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000431', '','',  '1' , '', 'x');
+VALUES ('0000000431', 'Cavalcanti, Lana de Souza','Geografia, escola e construção de conhecimentos',  '1' , '9', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
 VALUES ('0000000432', '','',  '1' , '', 'x');
