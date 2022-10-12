@@ -1378,7 +1378,64 @@ INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `loca
 VALUES ('0000000556', 'Gomes, Luiz','Guia prático educação para cidadania',  '1' , '2013', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
-VALUES ('0000000557', '','',  '1' , '', 'x');
+VALUES ('0000000557', 'Senado Federal','Assédio',  '1' , '2016', 'x');
 
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000558', 'Vários autores','A proteção dos direitos das mulheres no estado do Rio Grande do Norte: do
+direito internacional ao direito local',  '1' , '2013', 'x');
 
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000559', 'Senado Federal','Direitos da moradia, da segurança e do lazer',  '1' , '2011', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000560', 'Farias, Airton de','Um olhar sobre os governos militares',  '1' , '2017', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000561', 'Senado Federal','Constituição da República Federativa do Brasil: texto constitucional
+promulgado em 1988',  '1' , '2017', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000562', 'Cipro Neto, Pasquale','Português passo a passo com Pasquale Cipro Neto',  '1' , 2007'', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000563', 'Naipaul, V. S.','Entre os fiéis: Irã, Paquistão, Malásia, Indonésia-1981',  '1' , '1999', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000564', 'Nabuco, Joaquim','Joaquim Nabuco _ A abolição e a República',  '1' , '1999', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000565', 'Luiz Antonio Aguiar','Para Entender o Brasil',  '1' , '2001', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000566', 'Coord. Alberto da Costa E Silva','Crise colonial e independência 1808-1830',  '1' , '2011', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000567', 'Bulfinch, Thomas','O livro de ouro da mitologia: a idade da fábula: histórias de deuses e heróis',  '1' , '1999', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000568', 'Sheldon, Sidney','O plano perfeito',  '1' , '1997', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000569', 'Azevedo, Milton M.','Abre as asas sobre nós',  '1' , '2016', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000570', 'Feitoza, Lilliane','Sem fronteiras: faces de um mundo globalizado',  '1' , '2018', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000571', 'Feitoza, Lilliane','Às margens do sentir: a mídia e a compreensão do outro',  '1' , '2019', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000572', 'Feitoza, Lilliane','Pelas janelas da mídia',  '1' , '2018', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000573', 'Lobsang Rampa','A Vela nº13',  '1' , '', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000574', 'Lobsang Rampa','Minha Vida Com o Lama',  '1' , '1972', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000575', 'Lobsang Rampa','Três vidas',  '1' , '1964', 'x');
+
+INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
+VALUES ('0000000576', 'Philippa Davies','Como Viver Sob Pressão',  '1' , '2004', 'x');
 
