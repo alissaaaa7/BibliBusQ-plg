@@ -1,0 +1,78 @@
+
+
+* {
+  
+  
+}
+body {
+  font-family: Arial;
+  background-image:linear-gradient(to right, #1e6091,#184e77,#0f4c5c);
+}
+
+
+ ///* menu *///
+
+a, a hover {
+	text-decoration: none;
+}
+
+.top-bar {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 10px 25px;
+	background-color: #003566;
+}
+
+.top-bar span{
+	color: #fff;
+}
+
+.logo img {
+	width: 150px;
+	margin:10px;
+}
+
+nav {
+	background: #fff;
+	padding: 5px 20px;
+	display:flex;
+	align-items: center;
+}
+
+nav a {
+	color: #222;
+}
+
+.logo a {
+	display: flex;
+	align-items: center;
+	font-size:20px;
+}
+
+.logo {
+	flex: 1;
+	display: flex;
+	align-items: center;
+	font-size:20px;
+}
+
+
+
+
+/* / BUSCA / */
+
+.box{
+	position: absolute;
+	top: 50%
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background-color: rbga (0,0,0,0.5);
+	padding: 15px;
+	border-radius: 15px;
+	width: 20%;
+	min-width:320px;
+	max-height: 800px;
+}
+
+fieldset
