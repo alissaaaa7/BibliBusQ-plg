@@ -1435,3 +1435,9 @@ VALUES ('0000000575', 'Lobsang Rampa','Três vidas',  '1' , '1964', 'x');
 
 INSERT INTO `livro` (`idregistro`, `autor`, `titulo`, `quantidade`, `ano`, `localizacao`) 
 VALUES ('0000000576', 'Philippa Davies','Como Viver Sob Pressão',  '1' , '2004', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) VALUES ('0000000998', 'Pinheiro, João; Barbosa, Sirlene', 'Carolina', '196' , '2012', 'x');
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) VALUES ('0000001420', 'Klara Castanho', 'Meu jeito certo de fazer tudo errado', '196' , '2018', 'x');
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) VALUES ('0000000998', 'Pinheiro, João; Barbosa, Sirlene', 'Urbano imaginário: um outro olhar sobre as cidades', '349' , '2018', 'x');
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) VALUES ('0000001990', 'Viana, Klévisson', 'Os ofícios da poesia', '136' , '2018', 'x'); 
+
