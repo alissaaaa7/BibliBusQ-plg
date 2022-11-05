@@ -1441,3 +1441,999 @@ INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) VALU
 INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) VALUES ('0000000998', 'Pinheiro, João; Barbosa, Sirlene', 'Urbano imaginário: um outro olhar sobre as cidades', '349' , '2018', 'x');
 INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) VALUES ('0000001990', 'Viana, Klévisson', 'Os ofícios da poesia', '136' , '2018', 'x'); 
 
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000664', 'Carrasco, Walcyr', 'A palavra não dita', '1' , '2007', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000665', 'Muraro, Rose Marie', 'Feminino e masculino: uma nova consciência para o encontro das diferenças', '1' , '2002', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000666', 'Silva, Edivan', 'O Poder da iniciativa', '1' , '2012', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000667', 'Fabry, Chris', 'Quarto de guerra: a oração é uma arma poderosa na batalha espiritual', '1' , '2015', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000668', 'Tartt, Donna', 'O pintassilgo', '1' , '2014', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000669', 'Brandão, Ignácio de Loyola', 'A morena da estação: manual do professor', '1' , '2021', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000670', 'Castro, Ruy', 'A melancia quadrada: crônicas: manual do professor', '1' , '2021', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000671', 'Carrasco, Walcyr', 'Sonho de uma noite de verão: manual do professor', '1' , '2021', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000672', 'Carrasco, Walcyr', 'A megera domada: manual do professor', '1' , '2021', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000673', 'Scliar, Moacyr', 'A colina dos suspiros: manual do professor', '1' , '2021', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000674', 'Munduruku, Daniel', 'Antologia de contos indígenas de ensinamento: tempo de histórias', '1' , '2021', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000675', 'Collins, Suzanne', 'Em chamas', '1' , '2011', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000676', 'Bandeira, Pedro', 'A marca de uma lágrima', '1' , '2021', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000677', 'Pellegrini, Domingos', 'Mestres da paixão: aprendendo com quem ama o que faz', '1' , '2021', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000678', 'Quintana, Mario', 'Nariz de vidro: manual do professor', '1' , '2020', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000679', 'Preta, Stanislaw Ponte', 'Dois amigos e um chato: manual do professor', '1' , '2020', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000680', 'Carrasco, Walcyr', 'Dom Quixote: manual do professor/Miguel de Cervantes', '1' , '2021', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000681', 'Falcão, Adriana', 'A máquina: manual do professor', '1' , '2021', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000682', 'Rothfuss, Patrick', 'O nome do vento', '1' , '2009', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000683', 'Fialho, Carlos', 'A noite que nunca acaba', '1' , '2016', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000684', 'Hammett, Dashiell', 'Tiros na noite: a mulher do bandido', '1' , '2007', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000685', 'Vários colaboradores', 'DC encontra Looney Tunes', '1' , '2018', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000686', 'Ewing, Al', 'Loki, agente de Asgard: confie em mim', '1' , '2017', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000687', 'Keanu, Reeves', 'BAZAKA', '1' , '2022', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000688', 'Remender, Rick', 'Seven to eternity', '1' , '2020', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000689', 'Snyder, Scott', 'Batman & Sinal', '1' , '2019', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000690', 'Vários autores', 'Luke Cage: Luke Cage e Punho de ferro', '1' , '2017', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000691', 'Moebius', 'A garagem hermética', '1' , '2012', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000692', 'Gaiman, Neil', 'Sinal e Ruído', '1' , '2011', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000693', 'Gaiman, Neil', 'Mistérios Divinos', '1' , '2006', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000694', 'Martin, George R.R', 'O cavaleiro andante', '1' , '2018', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000695', 'Lemire, Jeff', 'Bloodshot', '1' , '2018', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000696', 'Ayala, Vita', 'A era do X-Man', '1' , '2020', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000697', 'Lobdell, Scott', 'DC encontra Hanna-Barbera', '1' , '2020', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000698', 'Davis, Alan', 'Vingadores/Defensores: Tarô', '1' , '2020', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000699', 'Carrol, Michael', 'Juiz Dredd Megazine Especial', '1' , '2020', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000700', 'Frank Miller', 'Superman: ano um', '1' , '2020', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000701', 'Moore, Alan', 'A Liga Extraordinária: Século:2009', '1' , '2012', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000702', 'Tomlin, Mattson', 'Batman: O impostor', '1' , '2021', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000703', 'Gaiman, Neil', 'Criaturas da noiteCriaturas da noite', '1' , '2005', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000704', 'Johnson, Phillip Kennedy', 'Superman: v. 56', '1' , '2021', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000705', 'Busiek, Kurt', 'Namor: Rei das trevas', '1' , '2021', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000706', 'Aaron, Jason', 'Heróis renascem', '1' , '2022', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000707', 'Sharp, Liam', 'Batman & Mulher-Maravilha', '1' , '2019', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000708', 'Vários autores', 'Constantine: Hellblazer: Indigno', '1' , '2016', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000709', 'Vários autores', 'Vampiro Americano: O senhor do pesadelo', '1' , '2013', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000710', 'Vários autores', 'Hellblazer', '1' , '2017', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000711', 'Vaughan, Brian K', 'Ex machina: Símbolo', '1' , '2007', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000712', 'Gage, Christos', 'Batman: Fortnite: v. 1', '1' , '2021', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000713', 'Vários autores', 'A noite do demônio', '1' , '2007', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000714', 'Vaughan, Brian K', 'Ex machina: símbolo vol. 3', '1' , '2007', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000715', 'Claremont, Chris', 'Novos Mutantes: Filhos da guerra', '1' , '2020', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000716', 'Vários autores', 'Preacher especial: cassidy: sangue & uísque', '1' , '2007', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000717', 'Vaughan, Brian K', 'Ex machina: símbolo vol.2', '1' , '2007', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000718', 'Snyder, Scott', 'O Batman que ri: v.3', '1' , '2020', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000719', 'Snyder, Scott', 'O Batman que ri: V.2', '1' , '2019', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000720', 'Vários autores', 'Detective comics Batman: Escola de Heróis', '1' , '2017', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000721', 'Vários autores', 'Grandes Astros: Batman: Caçada ao morcego', '1' , '2017', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000722', 'Vários autores', 'Grandes Astros: Batman: Comboio para o inferno', '1' , '2017', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000723', 'Vários autores', 'Grandes Astros: Batman: A marca da maldade', '1' , '2017', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000724', 'Vários autores', 'LJA/SJA: vícios e virtudes', '1' , '2003', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000725', 'Vários autores', 'Grandes Astros: Batman: Confins da terra', '1' , '2017', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000726', 'Vários autores', 'Grandes Astros: Batman: O primeiro aliado', '1' , '2018', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000727', 'Vários autores', 'Fim dos Tempos', '1' , '2015', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000728', 'Vários autores', 'Pecado Original: Não confie em ninguém', '1' , '2015', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000729', 'Vários autores', 'Pecado Original: Quem matou o vigia?', '1' , '2015', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000730', 'Vários autores', 'Grandes Astros Batman: Confins da terra', '1' , '2017', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000731', 'Vários autores', 'Grandes Astros Batman: A Batalha pela alma de Harvey Dent', '1' , '2017', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000733', 'Vários autores', 'Grandes Astros Batman: Máquina caça-níquel', '1' , '2017', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000734', 'Vários autores', 'Grandes Astros Batman: O primeiro aliado', '3' , '2017', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000737', 'Vários autores', 'Grandes Astros Batman: Confins da Terra', '2' , '2018', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000739', 'Vários autores', 'Vilania Eterna: Medidas desesperadas', '1' , '2014', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000740', 'Vários autores', 'Vilania Eterna: O vencedor leva tudo', '1' , '2014', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000741', 'Vários autores', 'Vilania Eterna: Quem vai deter o Sindicato do crime?!', '1' , '2014', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000742', 'Vários autores', 'Vilania Eterna: O mal venceu', '1' , '2014', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000743', 'Vários autores', 'Vilania Eterna: Guerra interna!', '1' , '2014', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000744', 'Vários autores', 'Vilania Eterna: Inimigos ou aliados?', '1' , '2014', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000745', 'Vários autores', 'Fim dos Tempos: Assalto ao futuroFim dos Tempos: Assalto ao futuro', '1' , '2015', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000746', 'Vários autores', 'Fim dos Tempos', '1' , '2015', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000747', 'Vários autores', 'Batman Detective Comics', '1' , '2017', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000748', 'Vários autores', 'Batman Detective Comics: A noite dos homens-Monstro conclusão', '1' , '2017', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000749', 'Vários autores', 'Batman Detective Comics: Traição', '1' , '2017', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000750', 'Vários autores', 'Star Wars Darth Vader: Sangue Real', '1' , '2017', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000751', 'Vários autores', 'Superman: Entrevista com o vampiro', '1' , '2003', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000752', 'Vários autores', 'O Batman que ri', '1' , '2019', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000753', 'Frank Mille', 'Sin City: A Dama de Vermelho', '1' , '1994', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000754', 'Vários autores', 'Juiz Dredd', '1' , '1977', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000755', 'Vários autores', 'Fim dos tempos: O segredo revelado', '1' , '2015', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000756', 'Vários autores', 'Hitman', '2' , '2002', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000759', 'Vários autores', 'Os Invisíveis', '2' , '1994', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000760', 'Vários autores', 'Os Invisíveis: parte 2', '1' , '1994', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000761', 'Vários autores', 'Os Invisíveis: parte 3', '1' , '1994', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000762', 'Vários autores', 'Surfista Prateado', '1' , '1991', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000763', 'Vários autores', 'Raça das Trevas', '1' , '1989', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000764', 'Vários autores', 'Nick Fury Vs. S.H.I.E.L.D', '1' , '1989', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000765', 'Vários autores', 'The Nazz: A história de um super-homem', '1' , '1992', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000766', 'Vários autores', 'The Nazz: A história de um super-homem: Parte 2', '1' , '1992', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000767', 'Vários autores', 'The Nazz: A história de um super-homem: Parte 3', '1' , '1992', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000768', 'Vários autores', 'The Nazz: A história de um super-homem: Parte 4', '1' , '1992', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000801', 'Vários autores', 'Chiclete com banana especial: Abaixo a direita. As aventuras de meiaoito &
+nanico', '1' , '2007', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000802', 'Vários autores', 'Níquel náusea', '1' , '1985', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000803', 'Vários autores', 'Superficção', '1' , '1987', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000804', 'Vários autores', 'Drakken`s', '1' , '1997', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000805', 'Vários autores', 'Logan: A trilha do guerreiro', '1' , '1996', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000806', 'Neil Gaiman', 'Os livros da magia', '1' , '1990', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000807', 'Vários autores', 'The Dreaming', '1' , '1998', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000808', 'Vários autores', 'HQ: Revista do quadrinho brasileiro', '1' , '2003', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000809', 'Platão', 'Fedro Platão', '1' , '2004', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000811', 'Aristóteles', 'Política Aristóteles', '1' , '2001', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000812', 'Karl Marx', 'Manuscritos Econômicos-Filosóficos', '1' , '2001', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000813', 'Santo Agostinho', 'Confissões', '1' , '2002', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000814', 'Ovídio', 'Metamorfoses', '1' , '2004', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000815', 'Franz Kafka', 'O Processo', '1' , '2002', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000816', 'Stendhal', 'O vermelho e o Negro', '1' , '2006', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000817', 'Thomas Hobbes', 'Do Cidadão', '1' , '2004', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000818', 'Miller, Scott', 'O despertar: uma jornada no caminho do autoencontro', '1' , '2019', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000819', 'Jean-Jacques Rousseau', 'Do Contrato Social', '1' , '2001', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000820', 'Voltaire', 'Cândido ou o Otimismo', '1' , '2001', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000821', 'William Shakespeare', 'Rei Lear', '1' , '2001', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000822', 'Immanuel Kant', 'Fundamentação da Metafísica dos Costumes e Outros Escritos', '1' , '2002', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000823', 'Lyra, A. Tavares de', 'História do Rio Grande do Norte', '1' , '2008', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000824', 'Vários autores', 'Do Inferno', '1' , '2000', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000825', 'Cascudo, Luís da Câmara', 'Nosso amigo Castriciano: 1874-1947: reminiscências e notas', '6' , '2008', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000831', 'Cascudo, Luís da Câmara', 'O tempo e eu: confidências e proposições', '6' , '2008', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000837', 'Costa, Américo de Oliveira', 'Viagem ao universo de Câmara Cascudo: tentativa de ensaio biobliográfico', '6' , '2008', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000844', 'Cascudo, Luís da Câmara', 'Vida breve de Auta de Souza: 1876-1901', '1' , '2008', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000845', 'Silva, Marcos', 'Câmara Cascudo, Dona Nazaré de Souza e Cia: guerras do alecrim', '7' , '2008', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000852', 'Itamar de Souza', 'Câmara Cascudo: Vida & Obra', '1' , '2007', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000853', 'Cascudo, Luís da Câmara', 'Crônicas de origem: a cidade de Natal nas crônicas cascudianas dos anos 20', '5' , '2011', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000858', 'Vidoto, Marcia Lobo', 'Saúde nua e crua: Alimentos na Prevenção e Cura de Doenças, Peso Ideal e
+Qualidade de Vida', '1' , '2016', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000859', 'Lima, Pedro de', 'Luís da Câmara Cascudo e a questão urbana em Natal', '2' , '2006', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000861', 'Cascudo, Luís da Câmara', 'História da cidade do Natal', '1' , '2010', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000862', 'Barreto, Anna Maria Cascudo', 'Coronel Cascudo: o herói oculto', '1' , '2010', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000863', 'Cascudo, Luís da Câmara', 'Lendas brasileiras', '1' , '2000', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000864', 'Matarazzo, Maria Helena', 'Nós dois: as várias formas de amar', '1' , '1993', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000866', 'Coben, Harlan', 'Quando ela se foi', '1' , '2011', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000867', 'Christie, Agatha', 'O caso dos dez negrinhos', '1' , '1987', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000868', 'Chevalier, Tracy', 'Moça com brinco de pérola', '1' , '2002', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000869', 'Arthur C. Clarke', 'Areias de Marte', '1' , '1960', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000870', 'Gomes, Laurentino', '1808: como uma rainha louca, um príncipe medroso e uma corte corrupta
+enganaram Napoleão e mudaram a história de Portugal e do Brasil', '1' , '2007', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000871', 'Wilson, A. N.', 'Jesus, um retrato do homem', '1' , '2000', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000872', 'Zdarsky, Chip', 'Demolidor: V: 3', '1' , '2020', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000873', 'Agatha Christie', 'Por que não pediram a Evans?', '1' , '1987', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000874', 'Eisner, Will', 'A Força da Vida', '1' , '2007', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000875', 'Jay, Stacey', 'Julieta Imortal', '1' , '2011', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000876', 'Tolstói', 'Onde existe amor, Deus aí está', '1' , '2001', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000877', 'Meyer, Stephenie', 'A breve segunda vida de Bree Tanner', '1' , '2010', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000878', 'Colette Dowling', 'Complexo de Cinderela', '1' , '1981', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000879', 'Madruga, Beatriz', 'Em fim, Nós', '1' , '2021', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000880', 'Puzo, Mario', 'O chefão', '1' , '1981', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000881', 'Costa, Francisco de Assis', 'A Cultura da Laranja no Brasil e no Pará: Aspectos Estruturais de Produção', '1' , '2003', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000882', 'Garcia Márquez, Gabriel', 'Cem anos de solidão', '1' , '2018', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000000883', 'Vários autores', 'X-MEN: FERA ENJAULADA!', '1' , '2002', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002119', 'Dias Filho, Antonio Jonas', 'Personalidades e personagens', '1' , '2010', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002120', 'Byrd Baggett', 'Manual do Sucesso em Vendas: Tudo o que a força de vendas precisa saber para alcançar o sucesso', '1' , '1994', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002121', 'Correia, Almir', '13 contos de medos e arrepios', '1' , '2011', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002122', 'Hellinger, Bert', 'Liberados somos concluídos: textos tardio', '1' , '2012', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002123', 'Scarlett Marton', 'Nietzsche', '1' , '1982', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002124', 'Leite, Márcia', 'Do jeito que a gente é', '1' , '2009', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002125', 'Vários autores', 'Imagens marginais', '3' , '2006', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002128', 'Vários autores', 'Sonora Brasil_Edino Krieger e as bienais de música brasileira', '2' , '2006', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002130', 'Caldas, Dorian Gray', 'A presença das artes plásticas no Sesc, Senac, Federação do Comércio do
+RN', '2' , '1995', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002132', 'Almeida, angela', 'Newton Navarro:os frutos do amor amadurecem ao sol', '2' , '2015', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002136', 'Vários autores', '80 cult movies essenciais', '1' , '2010', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002137', 'Vários autores', 'Cenas brasileiras: o cinema em perspectiva multidisciplinar(1928/1988)', '1' , '2009', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002139', 'Alves, Teodora de Araújo', 'Herdanças de corpos brincantes: os saberes da corporeidade em danças
+afro-brasileiras', '1' , '2006', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002140', 'Leonard Gaunt', 'FOTOGRAFIA com Bom Senso', '1' , '1990', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002141', 'Silva, Marcos', 'Clarões da tela: o cinema dentro de nós', '1' , '2006', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002142', 'Caldas, Dorian Gray', 'Geografia do medo: gravura e texto', '1' , '2001', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002143', 'Caldas, Dorian Gray', 'Artes plásticas do Rio Grande do Norte-1920-1989', '1' , '1989', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002144', 'Viana, Edmar', 'Cartão Amarelo: 30 Anos', '1' , '2003', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002145', 'Sesc. Departamento Nacional', 'Jidaigeki: Viajando com Kurosawa ao Japão feudal: Mostra de cinema', '1' , '2016', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002146', 'Vários autores', 'Sonoras Brasil: Violas brasileiras: circuito 2015/2016', '1' , '2015', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002147', 'Vários autores', 'Palco Giratório: circuito nacional', '1' , '2013', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002148', 'Vários autores', 'Coletânea de políticas públicas de cultura: práticas e reflexões', '1' , '2011', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002149', 'Benjamim, Cleide Dorta', 'Contraponto atonal', '1' , '2002', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002150', 'Luiz, Fernando', 'A arte de pés descalços', '1' , '2014', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002151', 'Othon, Sônia Maria de Oliveira', 'Dramaturgia da Cidade dos Reis Magos', '1' , '1997', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002152', 'Valeriano Bozal', 'GOYA: Pinturas Negras', '1' , '1997', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002153', 'Braga-Torres, Angela', 'Anita Malfatti', '1' , '1999', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002154', 'Leitão, Mércia M', 'Um fotógrafo diferente chamado Debret', '1' , '1996', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002155', 'Braga, Angela', 'Antônio Francisco Lisboa: O Aleijadinho', '1' , '1996', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002156', 'Rosa, Nereide Schilaro Santa', 'José Ferraz de Almeida Júnior', '1' , '1999', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002157', 'Fraga, Myriam', 'Carybé', '1' , '2004', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002158', 'Luciana, Dalila', 'Di Cavalcanti', '1' , '2003', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002159', 'Behrens, Peter', 'A lei dos sonhos', '1' , '2009', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002160', 'Leitão, Mércia M.', 'Um fotógrafo diferente chamado Debret', '1' , '1996', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002161', 'Vários autores', 'Rio Grande do Norte: bonito por natureza', '1' , '2014', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002162', 'Vários autores', 'Revista da Academia Norte-Rio-Grandense de Letras/ANL.-n.51', '10' , '2017', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002172', 'Martins, Francisco', 'A grande pesquisa', '2' , '2016', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002174', 'Carnegie, Dale', 'Como desfrutar sua vida e seu trabalho', '1' , '2012', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002175', 'Vários autores', 'Revista da Academia Norte-Rio-Grandense de Letras/ANL.-n.50', '1' , '2017', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002176', 'Vários autores', 'Revista da Academia Norte-Rio-Grandense de Letras/ANL.-n.54', '1' , '2018', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002177', 'Vários autores', 'Revista da Academia Norte-Rio-Grandense de Letras/ANL.-n.49', '1' , '2016', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002178', 'Vários autores', 'Revista da Academia Norte-Rio-Grandense de Letras/ANL.-n.34', '1' , '2005', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002179', 'Vários autores', 'Revista da Academia Norte-Rio-Grandense de Letras/ANL.-n.34', '2' , '2005', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002180', 'Vários autores', 'Revista da Academia Norte-Rio-Grandense de Letras/ANL.-n.36', '2' , '2006', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002181', 'Teixeira, Rinaldo Santos', 'Léo, o pardo', '2' , '2006', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002183', 'Cascudo, Luís da Câmara', 'Vida breve de Auta de Souza:1876-1901', '5' , '2008', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002188', 'Cascudo, Luís da Câmara', 'Vida de Pedro Velho', '5' , '2008', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002193', 'Vários autores', 'General Osório: A vida dos grandes brasileiros', '1' , '2001', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002194', 'Vários autores', 'Marechal Rondon: A vida dos grandes brasileiros', '1' , '2001', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002195', 'Vários autores', 'Cândido Portinari: A vida dos grandes brasileiros', '1' , '2001', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002196', 'Vários autores', 'José do Patrocínio: A vida dos grandes brasileiros', '1' , '2001', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002197', 'Vários autores', 'Gonçalves Dias: A vida dos grandes brasileiros', '1' , '2001', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002198', 'Vários autores', 'Rodrigues Alves: A vida dos grandes brasileiros', '1' , '2001', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002199', 'Vários autores', 'Joaquim Nabuco: A vida dos grandes brasileiros', '1' , '2001', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002200', 'Vários autores', 'Oswaldo Cruz: A vida dos grandes brasileiros', '1' , '2001', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002201', 'Vários autores', 'D. Pedro II: A vida dos grandes brasileiros', '1' , '2001', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002202', 'Vários autores', 'Euclides da Cunha: A vida dos grandes brasileiros', '1' , '2001', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002203', 'Vários autores', 'Villa-Lobos: A vida dos grandes brasileiros', '1' , '2001', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002204', 'Vários autores', 'D.Pedro I: A vida dos grandes brasileiros', '1' , '2001', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002205', 'Vários autores', 'Barão do Rio Branco: A vida dos grandes brasileiros', '1' , '2001', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002206', 'Vários autores', 'Santos Dumont: A vida dos grandes brasileiros', '1' , '2001', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002207', 'Vários autores', 'Duque de Caxias: A vida dos grandes brasileiros', '1' , '2001', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002208', 'Vários autores', 'Machado de Assis: A vida dos grandes brasileiros', '1' , '2001', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002209', 'Vários autores', 'Marechal Deodoro: A vida dos grandes brasileiros', '1' , '2001', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002210', 'Jaf, Ivan', 'Dom Casmurro', '1' , '2012', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002211', 'Vários autores', 'Rui Barbosa: A vida dos grandes brasileiros', '1' , '2001', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002212', 'Barreto, Anna Maria Cascudo', 'Coronel Cascudo: O Herói oculto', '1' , '2010', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002213', 'Onofre Júnior, Manoel', 'A servidão diária', '1' , '2014', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002214', 'Costa, Américo de Oliveira', 'Aurélio Pinheiro: tentativa de estudo crítico e biográfico', '1' , '2008', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002215', 'Siqueira, Esmeraldo', 'Um boêmio inolvidável', '1' , '2008', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002216', 'Sousa, Octávio Tarquínio de', 'A vida de D. Pedro I', '1' , '1972', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002217', 'Cascudo, Luís da Câmara', 'História da cidade do Natal', '1' , '2010', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002218', 'Suassuna, Ariano', 'Farsa da boa preguiça', '1' , '1979', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002219', 'Castro, Ruy', 'O anjo pornográfico: a vida de Nelson Rodrigues', '1' , '1992', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002220', 'Lima, Diógenes da Cunha', 'José: Uma biografia de José Augusto Delgado', '1' , '2008', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002221', 'Lima, Diogenes da Cunha', 'Ronaldo Cunha Lima: um nordestino de todo canto', '1' , '2014', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002222', 'Massie, Allan', 'César', '1' , '2000', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002223', 'Vários autores', 'Augusto Tavares de Lyra em vários tons', '1' , '2013', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002224', 'Norman, Philip', 'John Lennon: a vida', '1' , '2009', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002225', 'Sweetman, David', 'Paul Gauguin: uma vida', '1' , '1998', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002226', 'Almeida, Manuel Antônio de', 'Memórias de um sargento de milícias', '8' , '2006', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002234', 'Assis, Machado de', 'Dom Casmurro: em quadrinhos', '2' , '2019', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002236', 'Peppercorn, Lisa', 'Villa-Lobos', '1' , '2000', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002237', 'Douglass, Frederick', 'Narrativa da vida de Frederick Douglass', '1' , '2018', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002238', 'Sierra i Fabra, Jord', 'Poe: a vida brilhante e sombria de um gênio', '1' , '2013', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002239', 'Newkey-Burden, Chas', 'Amy Winehouse: Biografia', '1' , '2008', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002240', 'Dalí, Salvador', 'A Confissões inconfessáveis de Salvador Dalí: texto apresentado por André Parinaud', '1' , '1904', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002241', 'Massie, Allan', 'Tibério', '1' , '2000', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002242', 'Gattai, ZéliaGattai, Zélia', 'A casa do Rio Vermelho', '1' , '2001', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002243', 'Massie, Allan', 'Augusto', '1' , '2000', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002244', 'Yogananda, Paramahansa', 'Autobiografia de um iogue', '1' , '2006', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002245', 'Massie, Allan', 'Marco Antônio e Cleópatra', '1' , '2000', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002246', 'Andrade, João', 'Contos de escuridão e rutilância', '1' , '2017', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002247', 'Lima, Diógenes da Cunha', 'O Homem que pintava cavalos azuis', '1' , '2006', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002248', 'Japiassu, Moacir', 'Unidos pelo vexame', '1' , '1990', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002249', 'Japiassu, Moacir', 'Memórias de Adriano: seguido do caderno de notas das "Memórias de
+Adriano" e da Nota', '1' , '1980', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002250', 'Pedro Calmon', 'A vida de D.Pedro II: O Rei filósofo', '1' , '1975', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002251', 'Walter Clark com Gabriel Priolli', 'O Campeão de audiência', '1' , '1991', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002252', 'Menotti Del Picchia', 'Kalum', '1' , '1991', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002253', 'Vários autores', 'Copérnico', '1' , '1973', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002254', 'Vários autores', 'Vampiro Americano: Segundo Ciclo', '1' , '2016', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002255', 'Shakespeare, William', 'A tempestade', '1' , '2011', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002256', 'Almeida, Manuel Antônio de', 'Memórias de um sargento de milícias', '1' , '2006', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002257', 'Antonelli, Ronaldo', 'Contos de Tchekhov', '1' , '2010', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002258', 'Assis, Machado de', 'Memórias póstumas de Brás Cubas: em quadrinhos', '1' , '2019', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002259', 'Alencar, José de', 'Senhora: em quadrinhos', '1' , '2019', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002260', 'Alencar, José de', 'O cortiço: em quadrinhos', '2' , '2019', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002262', 'Rasec, Mário', 'Os black: the black album', '1' , '2018', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002264', 'Vários autores', 'Maldito sertão', '2' , '2018', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002265', 'Balduíno, Pedro', 'Os Mongos estão levando as nossas coisas', '1' , '2015', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002266', 'Stevenson, Robert Louis', 'A ilha do tesouro', '1' , '2011', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002267', 'Bosi, Alfredo', 'Os trabalhos da mão', '1' , '2018', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002269', 'Acquarone, F.', 'O guarani: romance de José de Alencar', '1' , '2017', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002270', 'Quino', '10 anos com Mafalda', '1' , '2010', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002271', 'D´Salete, Marcelo', 'Cumbe', '1' , '2018', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002272', 'Quintanilha, Marcello', 'O Ateneu', '1' , '2013', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002273', 'Vários autores', 'Domínio público', '1' , '2010', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002274', 'Henley, Margareth', 'Mais escuro que a escuridão', '1' , '1995', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002275', 'Rouanet, Maria Helena', 'A terceira margem do rio em graphic novel', '1' , '2015', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002276', 'Vetillo, Walter', 'A Ilíada em quadrinhos', '1' , '2011', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002277', 'Cunha, Carolina', 'Mestre gato e comadre onça: uma história de capoeira recontada e ilustrada
+por Carolina Cunha', '1' , '2011', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002278', 'Borges, Taisa', 'Frankenstein em quadrinhos', '1' , '2012', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002279', 'Neto, Crispiniano', 'O casamento de Zé Teatro com Maria Escola', '1' , '2009', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002280', 'Parra, Lillo', 'Sonho de uma noite de verão', '1' , '2011', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002281', 'Kafka, Franz', 'Na colônia penal', '1' , '2012', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002282', 'Rocha, Ruth', 'Faz muito tempo', '1' , '2009', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002283', 'Vários autores', 'X-Men: Fantasmas do passado', '1' , '2003', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002284', 'Boulos Júnior, Alfredo', 'O engenho e sua gente', '1' , '1999', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002285', 'Lira, Gilvan', 'Maturi', '1' , '2007', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002286', 'Takizawa, Seiho', 'Who Fighter: O coração das trevas', '1' , '2010', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002287', 'Solano, Affonso', 'O espadachim de carvão', '1' , '2013', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002288', 'Vários autores', 'Noir americano: uma antologia do crime de Chandler a Tarantino', '1' , '1998', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002289', 'Riggs, Ransom', 'O orfanato da srta. Peregrine para crianças peculiares', '1' , '2015', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002290', 'Vários autores', 'Cosmologia física', '1' , '2011', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002291', 'Ferreira, Juliana Mesquita Hidalgo', 'Estudando o invisível: William Crookes e a nova força', '1' , '2004', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002292', 'Palahniuk, Chuck', 'Condenada: a vida é curta: a morte é eterna', '1' , '2020', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002293', 'Garcia-Roza, Luiz Alfredo', 'Uma janela em Copacabana', '1' , '2001', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002294', 'Garcia-Roza, Luiz Alfredo', 'O silêncio da chuva', '1' , '2005', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002295', 'S.D.Perry', 'Resident Evil: A conspiração da umbrella', '1' , '2005', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002296', 'Douglas, Penelope', 'Punk 57', '1' , '2019', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002297', 'Atwood, Margaret Eleanor', 'O conto da aia', '1' , '2017', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002298', 'Delaney, Joseph', 'O aprendiz', '1' , '2011', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002299', 'Alexandra M. Revynthi', 'Should i stay or should i go?', '1' , '2017', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002300', 'Watters, Dan', 'O universo de Sandman: Lícifer', '1' , '2021', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002301', 'Jack Higgins', 'A noite da raposa: Night of the fox', '1' , '1986', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002302', 'Janet Hardy-Gould', 'King Arthur', '1' , '1986', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002303', 'Vários autores', 'Tex Willer: As aventuras de Tex quando jovem', '1' , '2019', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002304', 'David, Jim', 'Garfield: ataca seu coração', '1' , '1978', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002305', 'Vários autores', 'Arqueiro Verde: Apoia Heróis não votam', '1' , '2009', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002306', 'Vários autores', 'Demolidor: Homem sem medo', '1' , '1994', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002307', 'Vários autores', 'A Brigada dos Encapotados', '1' , '2001', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002308', 'Vários autores', 'Super-Homem & Batman: Os melhores do mundo juntos em uma missão!', '1' , '1990', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002309', 'Vários autores', 'Batman: O monstro do pântano', '1' , '1990', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002310', 'Vários autores', 'Batman: Ano um de Miller e Mazzucchelli', '1' , '1987', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002311', 'Costa, Virgílio Pereira da Silva', 'José Bonifácio: A vida dos Grandes Brasileiros', '1' , '2001', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002311', 'Costa, Virgílio Pereira da Silva', 'Castro Alves: A vida dos Grandes Brasileiros', '1' , '2001', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002312', 'Costa, Virgílio Pereira da Silva', 'Castro Alves: A vida dos Grandes Brasileiros', '1' , '2001', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002313', 'Brandão, Toni', 'Hamlet', '1' , '2005', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002314', 'Kinsella, John', 'Diálogo de conflito: a poesia de Carlos Drummond de Andrade', '1' , '1995', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002315', 'Egan, Jennifer', 'A visita cruel do tempo', '1' , '2011', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002316', 'Young, William P.', 'A cabana', '1' , '2008', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002317', 'West, Morris', 'Do alto da montanha: o testemunho de um peregrino', '1' , '1998', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002318', 'Du Maurier, Daphne', 'Minha prima Raquel', '1' , '1984', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002319', 'Butler, Octavia Estelle', 'Kindred: Laços de Sangue', '1' , '2017', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002320', 'Duarte, Eduardo de Assis', 'Jorge Amado: romance em tempo de utopia', '1' , '1996', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002321', 'Conrad, Joseph', 'No coração das trevas', '1' , '2018', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002322', 'Lucchesi, Marco', 'O dom do crime', '1' , '2012', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002323', 'Vários autores', 'Contos brasileiros 2', '1' , '2012', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002324', 'Puig, Manuel', 'Sangue de amor correspondido: romance', '1' , '1982', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002325', 'Pinto, Fátima Irene', 'Ecos da alma: antologia', '1' , '2005', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002326', 'Gilbert, Elizabeth', 'Comer,rezar, amar', '1' , '2008', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002327', 'Gelissen, Rena Kornreich', 'Irmãs em Auschwitz', '1' , '2015', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002328', 'Hunter, James C.', 'O monge e o executivo', '1' , '2004', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002329', 'O Cortiço', 'O Cortiço', '1' , '2012', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002330', 'Bucay, Jorge', 'Quando me conheci', '1' , '2011', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002331', 'Gould, Stepen Jay', 'A Falsa Medida do Homem', '1' , '1991', 'x');
+
+INSERT INTO livro (idregistro, autor, titulo, quantidade, ano, localizacao) 
+  VALUES ('0000002332', 'Bezerra, Djakson da Rocha', 'Análise Bioenergética', '3' , '2003', 'x');
