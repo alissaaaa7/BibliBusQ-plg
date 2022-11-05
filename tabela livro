@@ -4,5 +4,6 @@ CREATE TABLE livro (
     titulo text,
     quantidade INT, 
     ano year,
-    localizacao text
+    localizacao text,
+    genero text
 )
